@@ -62,4 +62,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+};
+{
+    "name": "[patrick]",   //다른 사람과 이 서버 목록을 공유하지 않는 한 중요하지 않음
+    "address": "[https://anisette-v3-server-hw1d.onrender.com]"
 }
